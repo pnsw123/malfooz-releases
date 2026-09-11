@@ -1,3 +1,3 @@
-# Malfooz releases
+# Distribution mirror
 
-Installers and the update feed (`latest.json`). No source here.
+Signed release assets and an update manifest. No source in this repository.
